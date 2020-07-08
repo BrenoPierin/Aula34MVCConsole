@@ -1,0 +1,13 @@
+C:\Breno USA\Senai\Aula34MVCConsole\obj\Debug\netcoreapp3.1\Aula34MVCConsole.csprojAssemblyReference.cache
+C:\Breno USA\Senai\Aula34MVCConsole\obj\Debug\netcoreapp3.1\Aula34MVCConsole.csproj.CoreCompileInputs.cache
+C:\Breno USA\Senai\Aula34MVCConsole\obj\Debug\netcoreapp3.1\Aula34MVCConsole.AssemblyInfoInputs.cache
+C:\Breno USA\Senai\Aula34MVCConsole\obj\Debug\netcoreapp3.1\Aula34MVCConsole.AssemblyInfo.cs
+C:\Breno USA\Senai\Aula34MVCConsole\bin\Debug\netcoreapp3.1\Aula34MVCConsole.exe
+C:\Breno USA\Senai\Aula34MVCConsole\bin\Debug\netcoreapp3.1\Aula34MVCConsole.deps.json
+C:\Breno USA\Senai\Aula34MVCConsole\bin\Debug\netcoreapp3.1\Aula34MVCConsole.runtimeconfig.json
+C:\Breno USA\Senai\Aula34MVCConsole\bin\Debug\netcoreapp3.1\Aula34MVCConsole.runtimeconfig.dev.json
+C:\Breno USA\Senai\Aula34MVCConsole\bin\Debug\netcoreapp3.1\Aula34MVCConsole.dll
+C:\Breno USA\Senai\Aula34MVCConsole\bin\Debug\netcoreapp3.1\Aula34MVCConsole.pdb
+C:\Breno USA\Senai\Aula34MVCConsole\obj\Debug\netcoreapp3.1\Aula34MVCConsole.dll
+C:\Breno USA\Senai\Aula34MVCConsole\obj\Debug\netcoreapp3.1\Aula34MVCConsole.pdb
+C:\Breno USA\Senai\Aula34MVCConsole\obj\Debug\netcoreapp3.1\Aula34MVCConsole.genruntimeconfig.cache
